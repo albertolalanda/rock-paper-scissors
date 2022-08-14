@@ -1,6 +1,6 @@
 # rock-paper-scissors
 
-Solidity smart contract of a rock, paper and scissors game
+Solidity smart contract of a rock, paper and scissors game. Project made for [cryptocurrency class 2022](https://github.com/albertolalanda/cryptocurrency-class-2022).
 
 1 - On contract creation player one submits his move hidden in an hash.  
 2 - Player two submits his move openly  
